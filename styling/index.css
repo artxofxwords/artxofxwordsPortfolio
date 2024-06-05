@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+
+#cover {
+    display: block;
+    text-align: center;
+    width: 60vw;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
